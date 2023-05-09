@@ -99,7 +99,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#599b47;
+	color:#e42626;
 }
 
 button,
@@ -263,9 +263,9 @@ img{
 }
 
 .btn-style-one:hover{
-	background:#599b47;
+	background:#e42626;
 	color:#ffffff;
-	border-color: #599b47;
+	border-color:#e42626;
 }
 
 /*Btn Style Two*/
@@ -292,7 +292,7 @@ img{
 
 .btn-style-two:hover{
 	background:none;
-	color:#599b47;
+	color:#e42626;
 }
 
 /*Btn Style Three*/
@@ -301,12 +301,12 @@ img{
 	position:relative;
 	padding:17px 32px 17px;
 	line-height:25px;
-	background:#599b47;
+	background:#e42626;
 	color:#ffffff;
 	font-size:18px;
 	font-weight:500;
 	cursor: pointer;
-	border:2px solid #599b47;
+	border:2px solid #e42626;
 	text-transform:capitalize;
 	font-family: 'Alegreya Sans', sans-serif;
 }
@@ -318,7 +318,7 @@ img{
 
 .btn-style-three:hover{
 	background:none;
-	color:#599b47;
+	color:#e42626;
 }
 
 /*Btn Style Four*/
@@ -344,8 +344,8 @@ img{
 
 .btn-style-four:hover{
 	color: #ffffff;
-	border-color:#599b47;
-	background-color:#599b47;
+	border-color:#e42626;
+	background-color:#e42626;
 }
 
 /*Social Icon One*/
@@ -899,7 +899,7 @@ img{
 }
 
 .main-header .outer-box .option-list li a:hover{
-	color: #599b47;
+	color: rgb(228, 38, 38);
 }
 
 .main-header .outer-box .option-list li .icon{
@@ -1098,7 +1098,7 @@ img{
 
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{
-	color:#599b47;
+	color:#e42626;
 	background-color:inherit !important;
 }
 
@@ -1365,7 +1365,7 @@ img{
 }
 
 .main-menu .navigation > li > ul > li:hover > a{
-	color:#599b47;
+	color:#e42626;
 	background:#efefef;
 }
 
@@ -1790,7 +1790,7 @@ img{
 
 .main-slider .owl-nav .owl-prev:hover,
 .main-slider .owl-nav .owl-next:hover{
-	color:#599b47;
+	color:#e42626;
 }
 
 /*** 
@@ -2122,7 +2122,7 @@ img{
 }
 
 .services-block .inner-box .lower-content h3 a:hover{
-	color: #599b47;
+	color: #e42626;
 }
 
 .services-block .inner-box .lower-content .text{
@@ -2292,7 +2292,7 @@ img{
     content: "\f0d7";
     bottom: -10px;
     left: 13px;
-    color: #599b47;
+    color: rgb(228, 38, 38);
     font-size: 20px;
 	opacity: 0;
     font-family: 'FontAwesome';
@@ -2425,7 +2425,7 @@ img{
 }
 
 .featured-block .inner-box h3 a:hover{
-	color:#599b47;
+	color:#e42626;
 }
 
 .featured-block .inner-box h3:before{
@@ -2840,7 +2840,7 @@ img{
 }
 
 .key-block .inner-box .content h3 a:hover{
-	color:#599b47;
+	color:rgb(228, 38, 38);
 }
 
 .key-block .inner-box .content .text{
@@ -2980,7 +2980,7 @@ img{
 }
 
 .news-block .inner-box .lower-content h3 a:hover{
-	color: #599b47;
+	color: #e42626;
 }
 
 .news-block .inner-box .lower-content .text{
@@ -3111,7 +3111,7 @@ img{
 }
 
 .estimate-section .form-column .inner-column:hover{
-	border-color: #599b47;
+	border-color: #eef2ed;
 }
 
 /* Estimate Form*/
@@ -3155,7 +3155,7 @@ img{
 .estimate-form .form-group input:focus,
 .estimate-form .form-group select:focus,
 .estimate-form .form-group textarea:focus{
-	border-color:#599b47;
+	border-color:#e42626;
 }
 
 /*Custom Select*/
@@ -3213,8 +3213,8 @@ img{
 }
 
 .ui-state-active, .ui-widget-content .ui-state-active{
-	background:#599b47;
-	border-color:#599b47;
+	background:#e42626;
+	border-color:#e42626;
 }
 
 .ui-menu .ui-menu-item-wrapper{
@@ -3226,7 +3226,7 @@ img{
 }
 
 .ui-menu-item:hover{
-	background-color:#599b47;
+	background-color:#e42626;
 }
 
 .estimate-section .info-column{
@@ -3246,7 +3246,7 @@ img{
 }
 
 .estimate-section .info-column .inner-column:hover{
-	border-color:#599b47;
+	border-color:#eef2ed;
 }
 
 .estimate-section .info-column .inner-column:before{
@@ -3321,7 +3321,7 @@ img{
 }
 
 .info-block .inner-box .find-map:hover{
-	color: #599b47;
+	color: #e42626;
 }
 
 /*** 
@@ -3676,7 +3676,7 @@ img{
 
 .main-footer .footer-bottom .search-panel input:focus,
 .main-footer .footer-bottom .search-panel select:focus{
-	border-color:#599b47;	
+	border-color:#e42626;	
 }
 
 .main-footer .footer-bottom .search-panel .search-btn{
@@ -3771,8 +3771,8 @@ img{
 .feedback-section .owl-nav .owl-prev:hover,
 .feedback-section .owl-nav .owl-next:hover{
 	color:#ffffff;
-	border-color:#599b47;
-	background-color: #599b47;
+	border-color:#e42626;
+	background-color: #e42626;
 }
 
 /*Testimonial Block*/
@@ -4624,7 +4624,7 @@ img{
 	font-weight: 500;
 	padding: 13px 44px;
 	display: inline-block;
-	background-color: #599b47;
+	background-color: #e42626;
 	font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -10396,7 +10396,7 @@ img{
 
 .checkout-page .payment-options li .radio-option label strong a{
 	font-size:16px;
-	color:#599b47;
+	color:#e42626;
 	margin-left:15px;
 	text-decoration:underline;
 }
