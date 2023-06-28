@@ -11,7 +11,7 @@ use PHPMailer\PHPMailer\Exception;
 
 // Define recipient details
 define("RECIPIENT_NAME", "Pradeep");
-define("RECIPIENT_EMAIL", "artistthikarforever@gmail.com");
+define("RECIPIENT_EMAIL", "info@windor.in");
 
 // Read the form values
 $success = false;
@@ -30,7 +30,7 @@ if ($userName && $senderEmail && $message) {
         // Configure SMTP settings
         $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
         $mail->SMTPAuth = true; // Enable SMTP authentication
-        $mail->Username = 'artistthikarforever@gmail.com'; // SMTP username
+        $mail->Username = 'info@windor.in'; // SMTP username
         $mail->Password = 'tmjklcfuohblfkre'; // SMTP password
         $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
         $mail->Port = 587; // TCP port to connect to
